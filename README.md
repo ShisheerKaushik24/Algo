@@ -8,7 +8,7 @@
   <a href="https://github.com/ShisheerKaushik24/Quantum_projects"><img src="https://github.com/ShisheerKaushik24/Algo/blob/master/algorithm.jpg"height="300" width="550" /></a>
 </div>
 
-*<p align="center"><small>Source: IBM Quantum</small></p>*
+*<p align="center"><small>Source: InvestoPedia</small></p>*
 
 <!-- Title: -->
 <div align="center">
