@@ -72,6 +72,16 @@ Final step, installing PySCF (no support for native Windows platform, see [issue
 ```bash
 python3 -m pip install -U qiskit-nature[pyscf]
 ```
-
-  
 <br>
+## Contributions:
+Contributions to the repository are always welcome! If you have any ideas for new projects or would like to contribute to an existing one, please feel free to open a pull request.
+
+# License
+
+This work is licensed under a [GNU General Public License v3.0](LICENSE) license.
+
+<hr>
+
+Created and maintained by [@Shisheer S Kaushik][1].
+
+[1]: https://github.com/ShisheerKauhik24
