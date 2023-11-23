@@ -5,14 +5,14 @@
 
 <!-- Logo: -->
 <div align="center">
-  <a href="https://github.com/ShisheerKaushik24/Quantum_projects"><img src="://github.com/ShisheerKaushik24/Algo/blob/master/algorithm.jpg"height="300" width="550" /></a>
+  <a href="https://github.com/ShisheerKaushik24/Quantum_projects"><img src="https://github.com/ShisheerKaushik24/Algo/blob/master/algorithm.jpg"height="300" width="550" /></a>
 </div>
 
 *<p align="center"><small>Source: IBM Quantum</small></p>*
 
 <!-- Title: -->
 <div align="center">
-  <h1> <a href="https://github.com/ShisheerKaushik24/Quantum_projects"> Quantum Algorithms </a></h1>
+  <h1> <a href="https://github.com/ShisheerKaushik24/Algo"> Quantum Algorithms </a></h1>
   <h2> All my Quantum Algorithms Implementations
 </div>
 <br>
