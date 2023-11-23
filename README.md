@@ -5,7 +5,7 @@
 
 <!-- Logo: -->
 <div align="center">
-  <a href="https://github.com/ShisheerKaushik24/Quantum_projects"><img src="https://github.com/ShisheerKaushik24/Quantum_projects/blob/master/asset/featured.png" height="300" width="550" /></a>
+  <a href="https://github.com/ShisheerKaushik24/Quantum_projects"><img src="://github.com/ShisheerKaushik24/Algo/blob/master/algorithm.jpg"height="300" width="550" /></a>
 </div>
 
 *<p align="center"><small>Source: IBM Quantum</small></p>*
