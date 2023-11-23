@@ -1,5 +1,12 @@
 # Content
-
+<nav>
+  <ul>
+      <li><a href="#section1">Deutsch Algorithm</a></li>
+      <li><a href="#section2">Bernstein Vazirani Algorithm</a></li>
+      <li><a href="#section3">Grover's Search Algorithm</a></li>
+  </ul>
+</nav>
+    
 <section id="section1">
     <h2>
         <a href="Deustch-algo.ipynb">Deutsch Algorithm</a>
