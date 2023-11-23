@@ -30,7 +30,7 @@ This repository contains a collection of my algorithms implemetations related to
 ## Packages:</br>
 The repository contains the algo implmented on following SDK's:</br>
 
-**[Qiskit](https://qiskit.org/)**: A quantum computing software development framework used to build and execute quantum circuits.</br>
+**[Qiskit](Qiskit)**: A quantum computing software development framework used to build and execute quantum circuits.</br>
 **[Pennylane](http://pennylane.ai/)**: An open-source software library for quantum machine learning, quantum computing, and optimization. Used in the Quantum Machine Learning project to demonstrate a quantum support vector machine.</br>
 **[Cirq](https://quantumai.google/cirq)**: An open source framework for programming quantum computers. Cirq is a Python software library for writing, manipulating, and optimizing quantum circuits.</br>
 
