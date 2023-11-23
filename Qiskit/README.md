@@ -16,7 +16,7 @@
 
 <section id="section3">
     <h2>
-        <a href="grover.ipynb">Bernstein Vazirani Algorithm</a>
+        <a href="grover.ipynb">Grover's Search Algorithm</a>
     </h2>
     <p>Grover's algorithm, a quantum algorithm devised by Lov Grover in 1996, revolutionizes search problems. Traditional algorithms require N steps to find an item in an unsorted list, but Grover's quadratic speedup reduces this to roughly √N steps. Its potential applications extend beyond mere search functions, impacting cryptography, optimization, and database searches. Grover's algorithm poses a threat to widely-used cryptographic schemes like RSA by efficiently solving the unstructured search problem, prompting the need for quantum-resistant encryption methods. In optimization tasks, it offers exponential speedup, enhancing efficiency in various computational domains and marking a significant stride in the realm of quantum computing.</p>
 </section>
